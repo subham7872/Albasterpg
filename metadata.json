@@ -1,0 +1,7 @@
+{
+  "name": "Alabaster's Handyman",
+  "description": "A premium, conversion-optimized website for a local handyman service in Alabaster, AL, featuring an AI-powered project estimator, multi-step lead capture, and a clean, trustworthy Southern aesthetic.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
